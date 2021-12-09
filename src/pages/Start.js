@@ -2,7 +2,7 @@ import React from "react";
 
 const Start = () => {
   return (
-    <div>
+    <div className="ui raised very padded text  container segment">
       <div>
         <a href="/page4" target="_blank">
           Page 4
